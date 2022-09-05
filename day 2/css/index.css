@@ -1,0 +1,47 @@
+.banner{
+
+  background-image: url(../assets/banner.jpeg);
+  height: 700px;
+  width: 100%;
+}
+.login{
+
+ font-size: larger;
+ color: beige;
+}
+.create{
+  font-size: larger;
+  color:beige;
+  border: solid 1px beige;
+  padding: 5px;
+}
+.circle{
+  width: 147px;
+  height: 147px;
+  padding: 24px 40px 24px 39px;
+  border: solid 1px ;
+  border-radius: 50%;
+  border-color: #fff;
+  background-color: #fff;;
+
+}
+.logo{
+  font-size: 75px;
+  font-family:monospace;
+  font-weight: 800;
+  color:crimson;
+
+}
+.message{
+  font-family: Poppins;
+  font-size: 36px;
+  color: #fff;
+  font-weight: 600;;
+
+}
+
+.find{
+  height:50px;
+  width:100%;
+  color:#fff;
+}
